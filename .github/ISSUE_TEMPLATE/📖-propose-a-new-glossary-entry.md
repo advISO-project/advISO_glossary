@@ -1,5 +1,5 @@
 ---
-name: "\U0001F4D6 Propose a new glossary term"
+name: "\U0001F4D6 Propose a new glossary entry"
 about: Suggest a new entry for the advISO Glossary of Terms, with its ISO definition
   and bioinformatics translation
 title: 'New term: [Insert Term]'
