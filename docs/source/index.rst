@@ -1,4 +1,4 @@
-Welcome to the AdvISO Glossary of Terms
+Welcome to the advISO Glossary of Terms
 =======================================
 
 **Release:** |release| [|today|]
