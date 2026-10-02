@@ -1,5 +1,5 @@
 ---
-name: "\U0001F4DD Propose change to an existing glossary entry"
+name: Change an existing glossary entry
 about: Propose changes to an existing glossary entry
 title: ''
 labels: glossary, update term
