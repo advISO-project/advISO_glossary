@@ -16,7 +16,7 @@ This guide forms part of the advISO series of practical how-to resources for lab
    .. grid-item::
 
       .. image:: _static/guide_series_button_horizontal.png
-         :target: https://adviso-glossary.readthedocs.io/en/latest/
+         :target: https://adviso-guide-series.readthedocs.io/en/latest/
          :alt: advISO SOP Writing Guide
          :width: 100%
          :align: center
