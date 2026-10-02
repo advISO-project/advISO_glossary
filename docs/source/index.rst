@@ -3,6 +3,10 @@ Welcome to the advISO Glossary of Terms
 
 **Release:** |release| [|today|]
 
+..  attention::
+
+   This resource is still under development. Please check back for updates, and feel free to provide feedback or suggestions via the `GitHub repository <https://github.com/advISO-project/advISO_glossary/issues/new?template=BLANK_ISSUE>`_.
+
 -----------------------------------------------------------------------------
 
 Introduction
