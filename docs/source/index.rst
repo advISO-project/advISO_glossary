@@ -10,7 +10,7 @@ Welcome to the AdvISO Glossary
 Our Guides
 ----------
 
-.. grid:: 1
+.. grid:: 2
    :gutter: 3
 
    .. grid-item::
