@@ -88,3 +88,4 @@ Find out more about the `advISO Bioinformatics accreditation in a box project <h
    :maxdepth: 2
 
    glossary
+   contributing
