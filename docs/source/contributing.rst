@@ -12,27 +12,32 @@ Before you start, please:
 * Search the :ref:`glossary <glossary>` to check the term is not already included.
 * Check the `open issues <https://github.com/advISO-project/advISO_glossary/issues>`_ to see whether the term or change has already been proposed.
 
-Adding a new term
------------------
+.. grid:: 1 2 2 2
+   :gutter: 3
 
-To suggest a term that is not yet in the glossary, use the new term form.
+   .. grid-item-card:: Adding a new term
+      :text-align: center
 
-.. button-link:: https://github.com/advISO-project/advISO_glossary/issues/new?template=new_glossary_term.md
-   :color: primary
-   :shadow:
+      To suggest a term that is not yet in the glossary, use the new term form.
 
-   🆕 Propose a new term
+      .. button-link:: https://github.com/advISO-project/advISO_glossary/issues/new?template=new_glossary_term.md
+         :color: primary
+         :shadow:
+         :expand:
 
-Updating an existing term
--------------------------
+         🆕 Propose a new term
 
-To suggest a correction, clarification or update to an existing entry, use the change request form.
+   .. grid-item-card:: Updating an existing term
+      :text-align: center
 
-.. button-link:: https://github.com/advISO-project/advISO_glossary/issues/new?template=change-an-existing-glossary-entry.md
-   :color: primary
-   :shadow:
+      To suggest a correction, clarification or update to an existing entry, use the change request form.
 
-   🔄 Propose a change
+      .. button-link:: https://github.com/advISO-project/advISO_glossary/issues/new?template=change-an-existing-glossary-entry.md
+         :color: primary
+         :shadow:
+         :expand:
+
+         🔄 Propose a change
 
 ----------------------------------------------
 
