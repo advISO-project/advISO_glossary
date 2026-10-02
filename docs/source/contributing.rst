@@ -17,8 +17,11 @@ Before you start, please:
 
    .. grid-item-card:: Adding a new term
       :text-align: center
+      :class-footer: glossary-card-footer
 
       To suggest a term that is not yet in the glossary, use the new term form.
+
+      +++
 
       .. button-link:: https://github.com/advISO-project/advISO_glossary/issues/new?template=new_glossary_term.md
          :color: primary
@@ -29,8 +32,11 @@ Before you start, please:
 
    .. grid-item-card:: Updating an existing term
       :text-align: center
+      :class-footer: glossary-card-footer
 
       To suggest a correction, clarification or update to an existing entry, use the change request form.
+
+      +++
 
       .. button-link:: https://github.com/advISO-project/advISO_glossary/issues/new?template=change-an-existing-glossary-entry.md
          :color: primary
