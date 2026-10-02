@@ -12,17 +12,46 @@ Before you start, please:
 * Search the :ref:`glossary <glossary>` to check the term is not already included.
 * Check the `open issues <https://github.com/advISO-project/advISO_glossary/issues>`_ to see whether the term or change has already been proposed.
 
---------------------------------------------------------
-
 Adding a new term
 -----------------
 
-To propose a new term, open an issue using the following template.
+To suggest a term that is not yet in the glossary, use the new term form.
 
-.. button-link:: https://github.com/advISO-project/advISO_glossary/issues/new?template=new-glossary-entry.md
+.. button-link:: https://github.com/advISO-project/advISO_glossary/issues/new?template=new_glossary_term.md
    :color: primary
    :shadow:
- 
-   📖 Propose a new term
 
---------------------------------------------------------
+   🆕 Propose a new term
+
+Updating an existing term
+-------------------------
+
+To suggest a correction, clarification or update to an existing entry, use the change request form.
+
+.. button-link:: https://github.com/advISO-project/advISO_glossary/issues/new?template=change-an-existing-glossary-entry.md
+   :color: primary
+   :shadow:
+
+   🔄 Propose a change
+
+----------------------------------------------
+
+Writing guidance
+----------------
+
+When proposing new or updated content, please:
+
+* **Write in your own words.** Do not copy definitions directly from ISO standards, which are under copyright. Paraphrase the meaning and cite the relevant clause instead.
+* **Keep it concise.** Aim for a definition of one or two sentences, and a bioinformatics translation of a short paragraph at most.
+* **Make examples realistic.** Example usages should reflect how the term is actually used in a laboratory or bioinformatics setting, without including any patient or sample identifiers.
+
+-------------------------------------------
+
+What happens next?
+------------------
+
+1. The advISO team will review your issue and may ask questions or suggest edits in the comments.
+2. Once agreed, the term will be added or updated in the glossary.
+3. The issue will be closed and linked to the release that includes the change.
+
+Thank you for helping to make ISO terminology clearer for the bioinformatics community!
