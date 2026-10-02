@@ -23,7 +23,7 @@ Before you start, please:
 
       +++
 
-      .. button-link:: https://github.com/advISO-project/advISO_glossary/issues/new?template=new_glossary_term.md
+      .. button-link:: https://github.com/advISO-project/advISO_glossary/issues/new?template=new-glossary-entry.md
          :color: primary
          :shadow:
          :expand:
