@@ -72,3 +72,4 @@ What happens next?
 #. The issue will be closed and linked to the release that includes the change.
 
 Thank you for helping to make ISO terminology clearer for the bioinformatics community!
+
