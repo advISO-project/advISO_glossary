@@ -8,6 +8,8 @@ Welcome to the AdvISO Glossary
 Our Guides
 ----------
 
+This guide forms part of the advISO series of practical how-to resources for laboratories working toward ISO accreditation:
+
 .. grid:: 1
    :gutter: 3
 
