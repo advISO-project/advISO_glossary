@@ -3,7 +3,6 @@ import re
 
 # Get input and output file paths
 input_excel = "resources/iso_terms.xlsx"
-input_intro = "resources/glossary_intro.txt"
 output_rst = "docs/source/glossary.rst"
 
 # Define color mapping for ontology prefixes
@@ -20,10 +19,6 @@ ontology_colors = {
 def make_anchor(term):
     return re.sub(r'[^a-z0-9_]', '', term.lower().replace(" ", "_"))
 
-# Load glossary intro text
-with open(input_intro) as intro_file:
-    intro_text = intro_file.read()
-
 # Load Excel file
 df = pd.read_excel(input_excel)
 
@@ -31,8 +26,6 @@ df = pd.read_excel(input_excel)
 with open(output_rst, "w") as f:
     f.write("Glossary of ISO terms\n")
     f.write("=====================\n\n")
-    f.write(intro_text + "\n\n")
-    f.write("----\n\n")
 
     # Insert search box
     f.write(".. raw:: html\n\n")

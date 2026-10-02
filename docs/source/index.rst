@@ -1,5 +1,5 @@
-Welcome to the AdvISO Glossary
-===================================
+Welcome to the AdvISO Glossary of Terms
+=======================================
 
 **Release:** |release| [|today|]
 
