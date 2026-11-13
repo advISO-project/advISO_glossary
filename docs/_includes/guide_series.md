@@ -23,7 +23,7 @@ laboratories working toward ISO accreditation:
 
 :::{grid-item}
 ```{image} https://adviso-sop-guide.readthedocs.io/en/latest/_static/brand/button_horizontal.png
-:target: https://adviso-sop-guide.readthedocs.io/en/latest/
+:target: https://adviso-sop-guide.readthedocs.io/
 :alt: advISO SOP Guide
 :width: 100%
 :align: center
@@ -33,7 +33,7 @@ laboratories working toward ISO accreditation:
 
 :::{grid-item}
 ```{image} https://adviso-competency-guide.readthedocs.io/en/latest/_static/brand/button_horizontal.png
-:target: https://adviso-competency-guide.readthedocs.io/en/latest/
+:target: https://adviso-competency-guide.readthedocs.io/
 :alt: advISO Competency Guide
 :width: 100%
 :align: center
@@ -43,7 +43,7 @@ laboratories working toward ISO accreditation:
 
 :::{grid-item}
 ```{image} https://adviso-validation-guide.readthedocs.io/en/latest/_static/brand/button_horizontal.png
-:target: https://adviso-validation-guide.readthedocs.io/en/latest/
+:target: https://adviso-validation-guide.readthedocs.io/
 :alt: advISO Validation Guide
 :width: 100%
 :align: center
@@ -53,7 +53,7 @@ laboratories working toward ISO accreditation:
 
 :::{grid-item}
 ```{image} https://adviso-audit-guide.readthedocs.io/en/latest/_static/brand/button_horizontal.png
-:target: https://adviso-audit-guide.readthedocs.io/en/latest/
+:target: https://adviso-audit-guide.readthedocs.io/
 :alt: advISO Audit Guide
 :width: 100%
 :align: center
