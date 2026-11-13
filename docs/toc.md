@@ -4,4 +4,5 @@
 
 pages/glossary
 pages/contributing
+pages/contributors
 ```
