@@ -16,7 +16,7 @@ version = '0.1.0'
 
 under_development = True
 
-guide_subtitle = 'Glossary'
+guide_subtitle = 'Glossary of Terms'
 
 sidebar_color = '#5E8E8A'
 
